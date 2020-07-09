@@ -127,26 +127,7 @@ header {
   background-color: rgba(255, 255, 255, 0.3);            
 }        
 
-.newsletter{
-  padding: 80px;
-  color: #fff;
-  background : #2f5167;
-}
 
-.newsletter h1{
-  float: left;
-}
-
-.newsletter form{
-  float: right;
-  margin-top: 15px;
-}
-
-.newsletter input[type="email"]{
-  padding: 4px;
-  height: 25px;
-  width: 250px;
-}
 
 .buttonsubs{
   height: 38px;
