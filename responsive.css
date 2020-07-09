@@ -15,6 +15,14 @@
   .newsletter h1 {
     font-size: 20px;
   }
+  
+  .menu-icon{ 
+  display: none;
+  color: white;            
+  float: right;            
+  font-size: 25px;            
+  padding: 25px 0;           
+  }
 }
 
 /* Untuk Smartphone */
