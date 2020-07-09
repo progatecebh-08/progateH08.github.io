@@ -256,7 +256,7 @@ footer{
 }       
            
 .menu-icon{ 
-  visibility: hidden;
+  opacity: 0;
   color: white;            
   float: right;            
   font-size: 25px;            
