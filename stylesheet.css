@@ -256,9 +256,9 @@ footer{
 }       
            
 .menu-icon{ 
-  opacity: 0;
+  display: none;
   color: white;            
   float: right;            
   font-size: 25px;            
-  padding: 21px 0;           
+  padding: 25px 0;           
 }
